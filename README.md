@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Manali Choramle
+# 👋 Hi, I'm Manali Choramle 🌟
 
 With a strong foundation in AI, Machine Learning, and Data Science, I’m passionate about solving complex problems through data-driven solutions. My experience spans across developing ML models, fine-tuning AI interactions, and crafting systems that drive real-world impact. I thrive in fast-paced, innovative environments and enjoy leveraging the latest technologies to build systems that help businesses unlock new opportunities.
 
